@@ -1,0 +1,56 @@
+html {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.main {
+  width: 1000px;
+  height: 1058px;
+  background-color: black;
+}
+
+.start {
+  background-color: blue;
+  width: 1000px;
+  height: 73px;
+  display: flex;
+  flex-direction: row;
+}
+
+.end-start {
+  background-color: aquamarine;
+  width: 1000px;
+  height: 438px;
+}
+
+.middle {
+  background-color: pink;
+  width: 1000px;
+  height: 205px;
+}
+
+.end-middle {
+  background-color: blanchedalmond;
+  width: 1000px;
+  height: 264px;
+}
+
+.end {
+  background-color: coral;
+  width: 1000px;
+  height: 78px;
+}
+
+.start-title {
+  margin-left: 60px;
+}
+
+.start-left {
+  background-color: aqua;
+  width: 500px;
+}
+.start-right {
+  background-color: red;
+  width: 500px;
+}
