@@ -54,3 +54,17 @@ html {
   background-color: red;
   width: 500px;
 }
+
+.start-Acceuil {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.start-Programme {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
